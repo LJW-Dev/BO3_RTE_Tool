@@ -1,0 +1,40 @@
+C:\Users\tester\Desktop\RTE tool creation\RTE tool\RTE tool\RTE tool\bin\Release\RTE tool.exe
+C:\Users\tester\Desktop\RTE tool creation\RTE tool\RTE tool\RTE tool\bin\Release\RTE tool.pdb
+C:\Users\tester\Desktop\RTE tool creation\RTE tool\RTE tool\RTE tool\obj\x86\Release\RTE_tool.Form1.resources
+C:\Users\tester\Desktop\RTE tool creation\RTE tool\RTE tool\RTE tool\obj\x86\Release\RTE_tool.Properties.Resources.resources
+C:\Users\tester\Desktop\RTE tool creation\RTE tool\RTE tool\RTE tool\obj\x86\Release\RTE tool.csproj.GenerateResource.Cache
+C:\Users\tester\Desktop\RTE tool creation\RTE tool\RTE tool\RTE tool\obj\x86\Release\RTE tool.exe
+C:\Users\tester\Desktop\RTE tool creation\RTE tool\RTE tool\RTE tool\obj\x86\Release\RTE tool.pdb
+E:\coding\RTE tool creation\RTE tool\RTE tool\RTE tool\obj\x86\Release\RTE tool.exe
+E:\coding\RTE tool creation\RTE tool\RTE tool\RTE tool\obj\x86\Release\RTE tool.pdb
+E:\coding\RTE tool creation\RTE tool\RTE tool\RTE tool\obj\x86\Release\RTE_tool.Form1.resources
+E:\coding\RTE tool creation\RTE tool\RTE tool\RTE tool\obj\x86\Release\RTE_tool.Properties.Resources.resources
+E:\coding\RTE tool creation\RTE tool\RTE tool\RTE tool\obj\x86\Release\RTE tool.csproj.GenerateResource.Cache
+E:\coding\RTE tool creation\RTE tool\RTE tool\RTE tool\bin\Release\RTE tool.exe
+E:\coding\RTE tool creation\RTE tool\RTE tool\RTE tool\bin\Release\RTE tool.pdb
+E:\coding\RTE tool creation\RTE tool\RTE tool\RTE tool\obj\x86\Release\RTE_tool.Form3.resources
+E:\coding\RTE tool creation\RTE tool\RTE tool\RTE tool\bin\Release\RTE tool.exe.config
+E:\coding\RTE tool creation\RTE tool\RTE tool\RTE tool\obj\x86\Release\RTE_tool.Form2.resources
+E:\coding\RTE tool creation\RTE tool\RTE tool\RTE tool\obj\x86\Release\RTE tool.csprojResolveAssemblyReference.cache
+E:\coding\RTE tool creation\Projects\BO3 RTE tool\RTE tool\RTE tool\bin\Release\RTE tool.exe.config
+E:\coding\RTE tool creation\Projects\BO3 RTE tool\RTE tool\RTE tool\obj\x86\Release\RTE tool.exe
+E:\coding\RTE tool creation\Projects\BO3 RTE tool\RTE tool\RTE tool\obj\x86\Release\RTE tool.pdb
+E:\coding\RTE tool creation\Projects\BO3 RTE tool\RTE tool\RTE tool\bin\Release\RTE tool.exe
+E:\coding\RTE tool creation\Projects\BO3 RTE tool\RTE tool\RTE tool\bin\Release\RTE tool.pdb
+E:\coding\RTE tool creation\Projects\BO3 RTE tool\RTE tool\RTE tool\obj\x86\Release\RTE tool.csprojResolveAssemblyReference.cache
+E:\coding\RTE tool creation\Projects\BO3 RTE tool\RTE tool\RTE tool\obj\x86\Release\RTE_tool.Form1.resources
+E:\coding\RTE tool creation\Projects\BO3 RTE tool\RTE tool\RTE tool\obj\x86\Release\RTE_tool.Form2.resources
+E:\coding\RTE tool creation\Projects\BO3 RTE tool\RTE tool\RTE tool\obj\x86\Release\RTE_tool.Form3.resources
+E:\coding\RTE tool creation\Projects\BO3 RTE tool\RTE tool\RTE tool\obj\x86\Release\RTE_tool.Properties.Resources.resources
+E:\coding\RTE tool creation\Projects\BO3 RTE tool\RTE tool\RTE tool\obj\x86\Release\RTE tool.csproj.GenerateResource.Cache
+E:\Coding\Xbox\Projects\BO3 RTE tool\RTE tool\RTE tool\bin\Release\RTE tool.exe.config
+E:\Coding\Xbox\Projects\BO3 RTE tool\RTE tool\RTE tool\obj\x86\Release\RTE tool.exe
+E:\Coding\Xbox\Projects\BO3 RTE tool\RTE tool\RTE tool\obj\x86\Release\RTE tool.pdb
+E:\Coding\Xbox\Projects\BO3 RTE tool\RTE tool\RTE tool\obj\x86\Release\RTE tool.csprojResolveAssemblyReference.cache
+E:\Coding\Xbox\Projects\BO3 RTE tool\RTE tool\RTE tool\obj\x86\Release\RTE_tool.Form1.resources
+E:\Coding\Xbox\Projects\BO3 RTE tool\RTE tool\RTE tool\obj\x86\Release\RTE_tool.Form2.resources
+E:\Coding\Xbox\Projects\BO3 RTE tool\RTE tool\RTE tool\obj\x86\Release\RTE_tool.Form3.resources
+E:\Coding\Xbox\Projects\BO3 RTE tool\RTE tool\RTE tool\obj\x86\Release\RTE_tool.Properties.Resources.resources
+E:\Coding\Xbox\Projects\BO3 RTE tool\RTE tool\RTE tool\obj\x86\Release\RTE tool.csproj.GenerateResource.Cache
+E:\Coding\Xbox\Projects\BO3 RTE tool\RTE tool\RTE tool\bin\Release\RTE tool.exe
+E:\Coding\Xbox\Projects\BO3 RTE tool\RTE tool\RTE tool\bin\Release\RTE tool.pdb

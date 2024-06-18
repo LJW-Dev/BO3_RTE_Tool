@@ -1,0 +1,7 @@
+C:\Users\tester\Desktop\RTE tool creation\RTE tool\RTE tool\RTE tool\bin\Debug\RTE tool.exe
+C:\Users\tester\Desktop\RTE tool creation\RTE tool\RTE tool\RTE tool\bin\Debug\RTE tool.pdb
+C:\Users\tester\Desktop\RTE tool creation\RTE tool\RTE tool\RTE tool\obj\x86\Debug\RTE_tool.Form1.resources
+C:\Users\tester\Desktop\RTE tool creation\RTE tool\RTE tool\RTE tool\obj\x86\Debug\RTE_tool.Properties.Resources.resources
+C:\Users\tester\Desktop\RTE tool creation\RTE tool\RTE tool\RTE tool\obj\x86\Debug\RTE tool.csproj.GenerateResource.Cache
+C:\Users\tester\Desktop\RTE tool creation\RTE tool\RTE tool\RTE tool\obj\x86\Debug\RTE tool.exe
+C:\Users\tester\Desktop\RTE tool creation\RTE tool\RTE tool\RTE tool\obj\x86\Debug\RTE tool.pdb
